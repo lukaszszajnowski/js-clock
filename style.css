@@ -35,6 +35,10 @@ body {
     transition-timing-function: cubic-bezier(0, 2.97, 0.58, 1); */
 }
 
+.hour-hand {
+    height: 8px;
+}
+
 .second-hand {
     height: 2px;
 }
